@@ -1,0 +1,15 @@
+G:\二坤小姨面试问题\Q1\bin\Debug\net6.0\Q1.exe
+G:\二坤小姨面试问题\Q1\bin\Debug\net6.0\Q1.deps.json
+G:\二坤小姨面试问题\Q1\bin\Debug\net6.0\Q1.runtimeconfig.json
+G:\二坤小姨面试问题\Q1\bin\Debug\net6.0\Q1.dll
+G:\二坤小姨面试问题\Q1\bin\Debug\net6.0\Q1.pdb
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.csproj.AssemblyReference.cache
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.AssemblyInfoInputs.cache
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.AssemblyInfo.cs
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.csproj.CoreCompileInputs.cache
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.dll
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\refint\Q1.dll
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.pdb
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\Q1.genruntimeconfig.cache
+G:\二坤小姨面试问题\Q1\obj\Debug\net6.0\ref\Q1.dll
